@@ -1,0 +1,135 @@
+@page {
+    /* size: a4 landscape;  */
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* font-family: Times New Roman;
+    font-size: 33px; */
+    margin: 0;
+    padding: 0;
+    /* text-align: center;
+    border: thin solid black; */
+}
+
+.page1 {
+    margin: 0;
+}
+
+.header {
+    margin: 0;
+}
+
+.header-tengah {
+    margin-top: 3rem;
+}
+
+.gambar-maritim {
+    height: 5rem;
+}
+
+.gambar-header {
+    width: 25rem;
+}
+
+.judul-maritim {
+    margin-top: 3rem;
+}
+
+.judul1 {
+    margin-bottom: 0rem;
+    color: #0a6ba0;
+}
+
+.judul2 {
+    color: #10afc5;
+    font-style: italic;
+}
+
+.judul-kta {
+    margin-top: -15rem;
+}
+
+.title1 {
+    font-style: bold;
+    font-size: 2rem;
+    color: #0a6ba0;
+    margin-bottom: 0rem;
+    font-weight: 700;
+}
+
+.title2 {
+    font-style: italic;
+    font-size: 1.8rem;
+    color: #10afc5;
+}
+
+.member {
+    margin-top: 2rem;
+}
+
+.nama-member {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.sahabat-maritim {
+    font-size: 1.5rem;
+}
+
+.qrcode {
+    margin-top: 2rem;
+}
+
+.nomor-member {
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+
+.provinsi {
+    margin-top: 2rem;
+    font-size: 2rem;
+}
+
+.bidang-keahlian {
+    font-size: 2rem;
+}
+
+.judul-keahlian {
+    font-size: 2rem;
+}
+
+.ttd {
+    margin-left: 3rem;
+    height: 10rem;
+    width: auto;
+}
+
+.gambar-bottom {
+    margin-top: 2rem;
+    height: 25rem;
+}
+
+.bottom-kanan {
+    margin-top: -2rem;
+}
+
+.tanggal {
+    margin-left: 3rem;
+    font-size: 1.3rem;
+    margin-bottom: 0rem;
+}
+
+.title-nama {
+    margin-top: -2rem;
+    margin-left: 3rem;
+    margin-bottom: 0rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.title-ketua {
+    margin-left: 3rem;
+    font-size: 1.5rem;
+}

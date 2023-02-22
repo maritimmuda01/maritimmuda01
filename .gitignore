@@ -1,0 +1,15 @@
+#codeigniter 3
+#application/config/*
+#application/config/config.php
+#application/config/database.php
+#blog/wp-config.php
+#upload/*
+
+#!application/logs/index.html
+#!application/logs/.htaccess
+#/vendor/
+
+
+
+
+
