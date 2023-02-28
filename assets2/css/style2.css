@@ -1,0 +1,61 @@
+.header2 {
+    margin-top: 3rem;
+}
+
+.title-nawa {
+    margin-top: 3rem;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #0a6ba0;
+    margin-bottom: 0rem;
+}
+
+.subtitle-nawa {
+    font-size: 1.5rem;
+    color: #10afc5;
+}
+
+.peta {
+    background-image: url('img/peta.jpg');
+    object-fit: fill;
+}
+
+.point-nawa {
+    margin-top: 5rem;
+    margin-left: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.list-point {
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+.slogan {
+    margin-top: 2rem;
+    margin-right: 5rem;
+}
+
+.point-slogan {
+    margin-bottom: 0rem;
+    font-size: 1.3rem;
+    font-style: italic;
+    font-weight: 700;
+    color: #10afc5;
+}
+
+.media {
+    margin-top: 2rem;
+    margin-left: 25rem;
+    margin-top: 2rem;
+}
+
+.point-media {
+    font-size: 1.2rem;
+    margin-bottom: 0rem;
+}
+
+.bottom2 {
+    margin-top: -5rem;
+}
