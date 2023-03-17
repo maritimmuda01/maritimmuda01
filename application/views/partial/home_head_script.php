@@ -12,3 +12,12 @@
         <link rel="apple-touch-icon" href="<?php echo site_url('assets/') ?>images/apple-touch-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="72x72" href="<?php echo site_url('assets/') ?>images/apple-touch-icon-72x72.png">
         <link rel="apple-touch-icon" sizes="114x114" href="<?php echo site_url('assets/') ?>images/apple-touch-icon-114x114.png">
+        <!-- overflow -->
+        <style>
+                @media only screen and (max-width: 900px) {
+                        .overflow-y-scroll {
+                                height: 225px;
+                                overflow-y: scroll;
+                        }
+                }
+        </style>
