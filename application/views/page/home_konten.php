@@ -220,6 +220,7 @@
     </div>
 </section>
 <!-- end blog section -->
+
 <!-- start clients logo section  -->
 <section class="wow fadeIn animated color-code no-padding-tb xs-padding-50px-tb" data-color="5">
     <div class="container">
@@ -229,32 +230,32 @@
             </div>
         </div>
         <div class="wow fadeInUp row multiple-items">
-            <div class="mitra"><a href="https://maritim.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_maritim.jpeg" alt=""></a></div>
-            <div class="mitra"><a href="https://kkp.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_kkp_baru.png" alt=""></a></div>
-            <div class="mitra"><a href="https://www.kemenpora.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kemenpora.png" alt=""></a></div>
-            <div class="mitra"><a href="https://www.bappenas.go.id/id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_bappernas.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://maritim.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_maritim.jpeg" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://kkp.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_kkp_baru.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://www.kemenpora.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kemenpora.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://www.bappenas.go.id/id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_bappernas.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://www.kemdikbud.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kemendikbud.png" alt=""></a></div>
             <!-- <div class="mitra"><img class="img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kemangteer.png" alt=""></div> -->
-            <div class="mitra"><a href="https://www.menlhk.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_klhk.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://www.menlhk.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_klhk.png" alt=""></a></div>
             <!-- <div class="mitra"><img class="img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/sebumi.png" alt=""> --><!-- </div> -->
             <!-- <div class="mitra"><img class="img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/bem-fpik-ipb.png" alt=""></div> -->
             <!-- <div class="mitra"><img class="img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/bem-hmtp-upnvj.png" alt=""></div> -->
-            <div class="mitra"><a href="https://bnpp.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo_bnpp.png" alt=""></a></div>
-            <div class="mitra"><a href="https://rc3s.org/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo RC3S.jpg" alt=""></a></div>
-            <div class="mitra"><a href="https://www.kehati.or.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kehati.jpg" alt=""></a></div>
-            <div class="mitra"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/yayasan2.png" alt=""></div>
-            <div class="mitra"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo EcoNusa.png" alt=""></div>
-            <div class="mitra"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo Kampong Teripang.png" alt=""></div>
-            <div class="mitra"><a href="https://sawfish.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo sawfish2.jpg" alt=""></a></div>
-            <div class="mitra"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/maritimepreneur.jpeg" alt=""></div>
-            <div class="mitra"><a href="https://ikansegar.co.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/segar.jpeg" alt=""></a></div>
-            <div class="mitra"><a href="https://www.docking.id/id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/docking-1.png" alt=""></a></div>
-            <div class="mitra"><a href="https://www.oceanogen.co.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/oceanogen.png" alt=""></a></div>
-            <div class="mitra"><a href="https://stei.ac.id/beranda"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo STEI.png" alt=""></a></div>
-            <div class="mitra"><a href="https://ipb.ac.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo IPB.png" alt=""></a></div>
-            <div class="mitra"><a href="https://www.mitramuseumjakarta.org/bahari"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/museum1.png" alt=""></a></div>
-            <div class="mitra"><!-- <a href="https://pustakaindonesia.org/yppi/"> --><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logoRTK.jpg" alt=""></a></div>
-            <div class="mitra"><a href="https://kampusmerdeka.kemdikbud.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Kampus_Merdeka.png" alt=""></a></div>
-            <div class="mitra"><a href="https://www.kemdikbud.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kemendikbud.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://bnpp.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo_bnpp.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://rc3s.org/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo RC3S.jpg" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://www.kehati.or.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kehati.jpg" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/yayasan2.png" alt=""></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo EcoNusa.png" alt=""></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo Kampong Teripang.png" alt=""></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://sawfish.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo sawfish2.jpg" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/maritimepreneur.jpeg" alt=""></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://ikansegar.co.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/segar.jpeg" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://www.docking.id/id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/docking-1.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://www.oceanogen.co.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/oceanogen.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://stei.ac.id/beranda"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo STEI.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://ipb.ac.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo IPB.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://www.mitramuseumjakarta.org/bahari"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/museum1.png" alt=""></a></div>
+            <div class="mitra" style="height:200px; padding-top: 2.5rem;"><!-- <a href="https://pustakaindonesia.org/yppi/"> --><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logoRTK.jpg" alt=""></a></div>
+            <!-- <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://kampusmerdeka.kemdikbud.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Kampus_Merdeka.png" alt=""></a></div> -->
         </div>
     </div>
 

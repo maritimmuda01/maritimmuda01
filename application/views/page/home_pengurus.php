@@ -108,7 +108,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/41/kaisar1.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/kaisar2.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -137,11 +137,11 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/42/Nanda_Anggiani_Putri2.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Nanda_Anggiani_Putri3.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                            <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Secretary General, Indonesi Maritime Youth</span>
+                                            <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
                                             <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                             <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                             <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
@@ -256,7 +256,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/41/Ronal.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Ronal2.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -290,7 +290,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/41/putih2.jpg" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Aditiya2.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -320,7 +320,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/42/Ibrahim_Esa_Wahyu_Wijaya2.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Ibrahim_Esa_Wahyu_W3.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -349,7 +349,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/41/putih2.jpg" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Alfinna_Yebelanti._3.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -381,7 +381,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/42/Sahlan_Buamona2.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Sahlan_Buamona3.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -413,7 +413,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/41/mattovani2.jpg" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/mattovani3.jpg" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -441,7 +441,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/42/Diemas_Sukma_Hawkins2.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Diemas_Sukma_Hawkins3.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -509,7 +509,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottomsm-margin-xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/41/putih2.jpg" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Syadza_Fatina_Oktafiarani2.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -537,7 +537,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/42/Mariyo_Putra_Perdana2.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Mariyo_Putra_Perdana3.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -631,7 +631,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/42/Tantri_Auliya2.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Tantri_Auliya3.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -690,7 +690,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/42/Zuana_Prasetia_Perdana_Nugraha2.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Zuana_Prasetia_Perdana_Nugraha3.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -718,7 +718,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/41/daniel.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Daniel_Silitonga1.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -839,7 +839,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/42/Muhammad_Tahir2.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Muhammad_Tahir3.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">

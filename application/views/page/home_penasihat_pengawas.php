@@ -73,7 +73,7 @@
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <a href="https://www.instagram.com/nono_sampono/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -96,7 +96,7 @@
 
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/41/Pen1.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Charletty2.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -105,7 +105,7 @@
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <a href="https://www.instagram.com/lbh_jakarta/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -129,7 +129,7 @@
 
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/41/basilio4.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/basilio1.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -138,7 +138,7 @@
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <a href="https://www.instagram.com/basilioaraujo33/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -171,7 +171,7 @@
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <a href="https://www.instagram.com/tni_angkatan_laut/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <a href="https://www.instagram.com/brsdmkp/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -235,7 +235,7 @@
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <a href="https://www.instagram.com/asdepkapasitas/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -270,6 +270,7 @@
                                     <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
                                     <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <a href="https://www.wilat.org/" class="text-white" target="_blank"><i class="fab fa-chrome"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -303,6 +304,7 @@
                                     <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
                                     <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <a href="https://www.facebook.com/stie.id" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -322,7 +324,7 @@
             <!-- end team item -->
             <!-- start team item -->
 
-            <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
+            <!-- <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
 
                 <figure>
                     <div class="team-image xs-width-100">
@@ -332,10 +334,10 @@
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
                                     <span class="text-white text-small display-inline-block no-margin"></span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a>
+                                    <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a>
+                                    <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -351,13 +353,13 @@
                     </figcaption>
                 </figure>
 
-            </div>
+            </div> -->
             <!-- end team item -->
             <!-- start team item -->
 
 
 
-            </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+            </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
             <div class="col-md-2 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
                 <figure>
                     <div class="team-image xs-width-100">
