@@ -258,10 +258,9 @@
             <!-- <div class="mitra" style="height:200px; padding-top: 2.5rem;"><a href="https://kampusmerdeka.kemdikbud.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Kampus_Merdeka.png" alt=""></a></div> -->
         </div>
     </div>
-
-
 </section>
 <!-- end client logo section -->
+
 <!-- start counter section -->
 <section class="wow fadeIn md-no-background-img" style="background: url('<?php echo site_url('assets/') ?>images/back-image3x.png') right center no-repeat">
     <div class="container">

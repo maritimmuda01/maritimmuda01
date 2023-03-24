@@ -32,7 +32,7 @@ $config['base_url'] = $base_url;
 
 $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost/maritimmuda-home");
 // $base_url = "http://localhost:8081/maritim/maritimmuda-home/";
-// $config['base_url'] = $base_url;
+$config['base_url'] = $base_url;
 
 // $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost/maritim/maritimmuda-home/");
 // $config['base_url'] = $base_url;
