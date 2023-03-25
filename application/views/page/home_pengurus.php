@@ -166,16 +166,16 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/41/putih2.jpg" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Aron_Jose2.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                            <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                            <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Seseorang yang selalu punya kemauan belajar melalu banyak jalan yang terbuka.</span>
                                             <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                             <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                             <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                             <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                            <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                            <a href="https://www.instagram.com/aronpakpahan1/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -183,7 +183,7 @@
                             </div>
                             <figcaption>
                                 <div class="team-member-position margin-20px-top text-center">
-                                    <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Prima Insamilandari Syah</div>
+                                    <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Aron Jose Manuel Pakpahan</div>
                                     <div class="text-extra-small text-uppercase text-medium-gray">Ketua Harian</div>
                                 </div>
                             </figcaption>
@@ -780,16 +780,16 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/41/putih2.jpg" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Cahaya_Nuryanti3.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                            <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                            <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Perkenalkan saya Cahaya Nuryanti mahasiswa prodi Manajemen di Universitas Khairun. Saya merupakan pribadi yang adaptif dan kreatif serta sangat menyukai tantangan baru dalam hidup saya. Gemar menggali potensi dan mengembangkan gagasan melalui karya</span>
                                             <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                             <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                             <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                             <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                            <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                            <a href="https://www.instagram.com/cahaya.nuryanti_/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                         </div>
                                     </div>
                                 </div>
