@@ -19,4 +19,5 @@ Maritim Muda Nusantara (Indonesian Maritime Youths) commonly called Maritim Muda
 - [Website Media Maritim Muda Id](https://media.maritimmuda.id/)
 - [Website Maritim Muda Hub](https://hub.maritimmuda.id/login)
 - [Website IBEC Maritim Muda](https://ibec.stei.ac.id/)
+- [Website The Blue Economist](https://theblueeconomist.org/)
 
